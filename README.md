@@ -1,0 +1,2 @@
+# kodas
+SPSS skaičiavimo kodas
